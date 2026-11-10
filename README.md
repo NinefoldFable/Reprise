@@ -12,5 +12,5 @@ Trim, crop, adjust audio, or add captions in the editor, then save your changes 
 4. Click **Open clips folder** to find your recordings.
 
 Reprise targets **Windows 11 x64**. Linux and MacOS releases are planned, but not yet public.
-This repository hosts Reprise downloads and release notes.
+This repository hosts Reprise downloads and release notes.<br>
 <small><i>You can change the clipping hotkey, save location, and other settings as soon as you've completed setup and opened Reprise.</i></small>
