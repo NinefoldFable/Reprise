@@ -14,4 +14,4 @@ Trim, crop, adjust audio, or add captions in the editor, then save your changes 
 Reprise targets **Windows 11 x64**. Linux and MacOS releases are planned, but not yet public.
 This repository hosts Reprise downloads and release notes.
 
-<p><sub><i>You can change the clipping hotkey, save location, and other settings as soon as you've completed setup and opened Reprise.</i></sub></p>
+<p><sub><i>You can change the clipping hotkey, save location/folder, and other settings as soon as you've completed setup and opened Reprise.</i></sub></p>
