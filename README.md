@@ -15,5 +15,3 @@ Reprise targets **Windows 11 x64**. Linux and MacOS releases are planned, but no
 This repository hosts Reprise downloads and release notes.
 
 <p><sub><i>You can change the clipping hotkey, save location/folder, and other settings as soon as you've completed setup and opened Reprise.</i></sub></p>
-<sub><b>There is a known issue where devices with both integrated and dedicated graphics processors can break Reprise.</b></sub>
-<sub>For example, my laptop has AMD Radeon Integrated Graphics alongside a dedicated RTX 3070. I will fix this when it is not 4AM lmao. <3</sub>
